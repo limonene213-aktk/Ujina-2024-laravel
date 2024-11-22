@@ -41,11 +41,7 @@
     </p>
 @endauth
 
-@php
-    echo"おまえだあああああ";
-@endphp
-
 <script>
-    alert("この祠を壊したのは誰じゃ！？")
+    //alert("この祠を壊したのは誰じゃ！？")
 </script>
 
