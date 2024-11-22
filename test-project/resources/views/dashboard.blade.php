@@ -11,6 +11,9 @@
                 <div class="p-6 text-gray-900">
                     {{ __("You're logged in!") }}
                 </div>
+                <div>
+                    <a class="p-6", href="test">testページに戻る</a>
+                </div>
             </div>
         </div>
     </div>
